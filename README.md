@@ -1,8 +1,5 @@
 # go-calculator
 
-[![Build Status](https://github.com/greenpau/go-calculator/workflows/build/badge.svg?branch=master)](https://github.com/greenpau/go-calculator/actions/)
-[![GoDoc](https://img.shields.io/badge/godoc-reference-blue.svg)](https://pkg.go.dev/github.com/greenpau/go-calculator)
-![Лицензия: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 
 Go-библиотека для вычислений: сумма, среднее значение, медиана, отсортированная медиана, дисперсия, диапазон, минимум, максимум, моды, стандартное отклонение и многое другое.
 
