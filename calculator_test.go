@@ -1,5 +1,3 @@
-// Copyright 2020 Paul Greenberg (greenpau@outlook.com)
-
 package calculator
 
 import (
@@ -12,8 +10,8 @@ type TestInput struct {
 	description string
 	input       []uint64
 	reg         Register
-	shouldFail  bool // Whether test should result in a failure
-	shouldErr   bool // Whether parsing of a response should result in error
+	shouldFail  bool 
+	shouldErr   bool 
 	errMessage  string
 }
 
