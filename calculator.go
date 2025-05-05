@@ -1,6 +1,3 @@
-// MIT License
-// Copyright 2020 Paul Greenberg (greenpau@outlook.com)
-
 package calculator
 
 import (
